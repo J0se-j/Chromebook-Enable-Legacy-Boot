@@ -17,3 +17,6 @@ Press Ctrl + D once again. You will see  this screen.
 Wait a while until you are at the login screen.
 
 ![images](https://github.com/user-attachments/assets/cb588d04-aa97-41e6-b0fe-8fba6e1cccda)
+
+Press Ctrl-Alt-(F2/Right arrow/Refresh.) 
+![how-do-i-login-to-the-vt2-terminal-v0-tdsxootpxkrd1](https://github.com/user-attachments/assets/c41d8a2c-99db-4a6a-a04e-8399a0248c55)
