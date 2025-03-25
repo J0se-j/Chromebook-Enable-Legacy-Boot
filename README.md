@@ -1,4 +1,4 @@
-# Chromebook-Enable-Legacy-Boot
+# Chromebook Enable Legacy Boot
 So how to Legacy Boot you need to enter dev mode. So, you would need to press the power, refresh, and escape buttons simultaneously. You will see one of these screens. Don't be alarmed. __DO NOT PLUG IN A USB DRIVE!__
 
 ![download](https://github.com/user-attachments/assets/fd118d69-ac8f-43cc-9def-bee67558ffa0)
@@ -8,3 +8,12 @@ So how to Legacy Boot you need to enter dev mode. So, you would need to press th
 Press Ctrl + D once until you see this screen.
 
 ![download](https://github.com/user-attachments/assets/2931ce3a-a751-4e0f-9dc3-6fd64bd7c281)
+
+
+Press Ctrl + D once again. You will see  this screen.
+
+![images](https://github.com/user-attachments/assets/2e0fa362-ecb2-46b2-8da4-f355f059bc79)
+
+Wait a while until you are at the login screen.
+
+![images](https://github.com/user-attachments/assets/cb588d04-aa97-41e6-b0fe-8fba6e1cccda)
