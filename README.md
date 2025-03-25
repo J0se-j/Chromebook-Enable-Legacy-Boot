@@ -22,5 +22,5 @@ Press Ctrl-Alt-(F2/Right arrow/Refresh.) You will see this screen.
 ![how-do-i-login-to-the-vt2-terminal-v0-tdsxootpxkrd1](https://github.com/user-attachments/assets/c41d8a2c-99db-4a6a-a04e-8399a0248c55)
 
 
-Type in "chronos" If there is a password type in something random __IT WILL SAY IT's WRONG!__ Type in "root" the password is "test0000" then type in "chromeos-setdevpasswd" Leave it blank or type in your own. (__If you type your own it will be blank for security purposes.__) Type in "exit" then log in as "chronos" Type in the password. If you left it blank before leave it blank now.
-Now type in ("__sudo crossystem dev_boot_usb=1 dev_boot_legacy=1__") Now to return press  Ctrl + Alt + F1 (Left Arror) now login.
+Type in "chronos" __If__ there is a password type in something random __IT WILL SAY IT's WRONG!__ Type in "root" the password is "test0000" then type in "chromeos-setdevpasswd" Leave it blank or type in your own. (__If you type your own it will be blank for security purposes.__) Type in "exit" then log in as "chronos" Type in the password. If you left it blank before leave it blank now.
+Now type in ("__sudo crossystem dev_boot_usb=1 dev_boot_legacy=1__") Now to return press  Ctrl + Alt + F1 (Left Arror) Now, log into your Chromebook.
