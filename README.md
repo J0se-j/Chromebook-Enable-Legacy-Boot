@@ -21,5 +21,5 @@ Wait a while until you are at the login screen. __Every time you restart your Ch
 Press Ctrl-Alt-(F2/Right arrow/Refresh.) You will see this screen.
 
 Type in "chronos" __If__ there is a password, type in something random __IT WILL SAY IT's WRONG!__ Type in "root" the password is "test0000" then type in "chromeos-setdevpasswd" Leave it blank or type in your own. (__If you type your own, it will be blank for security purposes.__) Type in "exit," then log in as "chronos" Type in the password. If you left it blank before, leave it blank now.
-Now type in ("__sudo crossystem dev_boot_usb=1 dev_boot_legacy=1__") Now to return press  Ctrl + Alt + F1 (Left Arror) Now, log into your Chromebook.
+Now type in ("__sudo crossystem dev_boot_usb=1 dev_boot_altfw=1__") Now to return press  Ctrl + Alt + F1 (Left Arror) Now, log into your Chromebook.
 Now, Ctrl + L will work now!
